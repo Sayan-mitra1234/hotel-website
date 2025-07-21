@@ -1,0 +1,53 @@
+#contact {
+    color:#e2cc6b;
+}
+
+.form-background-image {
+    background-image: url("../homePage/images/hotel-image-backside.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px 0 0;
+}
+
+div.form input {
+    height: 40px;
+    width: 200px;
+    display: block;
+    margin: 30px;
+    padding: 10px;
+    font-weight: bold;
+}
+
+div.form textarea {
+     height: 100px;
+    width: 200px;
+    display: block;
+    margin: 30px;
+    padding: 10px;
+    font-weight: bold;
+}
+
+div.form button {
+    height: 50px;
+    width: 150px;
+    margin: 15px 30px 30px;
+    font-weight: bold;
+    background-color: #d4af37;
+    color: antiquewhite;
+    border: none;
+    cursor: pointer;
+}
+
+div button:hover {
+    height: 55px;
+    width: 155px;
+}
+
+.form {
+    border: 1px solid wheat;
+    background-color: aliceblue;
+    margin: 50px 20px;
+}

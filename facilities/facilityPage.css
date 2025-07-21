@@ -1,0 +1,18 @@
+#facility {
+      color:#e2cc6b;
+}
+
+div.img-card p {
+    font-size: 30px;
+    font-weight: bolder;
+    margin: 20px;
+}
+
+.facility-card {
+    margin: 30px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}

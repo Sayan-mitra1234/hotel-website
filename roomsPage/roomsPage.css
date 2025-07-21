@@ -1,0 +1,37 @@
+#home {
+    color: black;
+    text-decoration: none;
+}
+
+.room {
+    text-decoration: none;
+    color:#e2cc6b;
+}
+
+.card {
+    margin: 60px;
+}
+
+.card-heading {
+    font-size: 25px;
+    margin: 10px;
+    font-weight: bolder;
+}
+
+.card-para {
+    font-size: 18px;
+    margin: 10px;
+    font-weight: 500;
+}
+
+.price {
+    font-size: 30px;
+    margin: 10px;
+    font-weight: bolder;
+}
+
+.container-card {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
